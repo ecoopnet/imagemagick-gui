@@ -1,0 +1,11 @@
+2010-04-21
+	* マルチバイトのコマンドラインオプションに対応。(Improper image header問題)
+	* 画像が大きい時にスクロールバー追加、ウィンドウサイズも見るように(MDI化?)
+	* キーワードサジェスト、色付け (http://www.atmarkit.co.jp/fdotnet/dotnettips/569aspajaxautocmpl/aspajaxautocmpl.html)
+	* 画像表示の拡大縮小
+	* アイコンをつける
+
+
+完了分
+	* 2010-08-24
+	- 実行ログ表示(実行したコマンドとエラー)
